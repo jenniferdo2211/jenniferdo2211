@@ -2,4 +2,4 @@
 
 - 🔭 I’m currently working on **Java** and **React**
 - 📫 Want to be friends? jennfierdo2211@gmail.com
-- Check out my [Leetcode Practices](https://github.com/jenniferdo2211/LeetCodePractices) for solutions for Leetcode problems :)
+- If you are learning Data Structure and Algorithms, check out my [Leetcode Practices](https://github.com/jenniferdo2211/LeetCodePractices) for solutions for Leetcode problems :)
